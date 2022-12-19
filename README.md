@@ -6,6 +6,7 @@
 ## nível 2: ## título
 ### nível 3: ### título
 *itálico* : * no início e fim da palavra ou frase sem espaço
+
 **negrito**: ** no início e fim da palavra ou frase sem espaço
 *__mesclar configurações__*
 ---
@@ -34,7 +35,9 @@ N° | Nome | Nota
 2 | Maria | ***9***
 3 | Pedro | ***5***
 
-Destacando trechos de códigos: `document.getElementById()`
+Destacando trechos de códigos:
+
+`document.getElementById()`
 ```
 <!Doctye>
 <html>
