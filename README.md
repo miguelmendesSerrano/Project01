@@ -26,3 +26,10 @@ Lista de tarefas:
 - [x] Criar minha conta GitHub
 - [x] Criar meu primeiro repositório público
 - [ ]  Criar meu primeiro site
+
+**Tabelas**
+N° | Nome | Nota
+--- | --- | ---
+1 | João | ***7***
+2 | Maria | ***9***
+3 | Pedro | ***5***
