@@ -48,3 +48,5 @@ Destacando trechos de códigos:
   </body>
 </html>
 ```
+Digitando emojis:
+🖖 🤝 ✋ 💸
