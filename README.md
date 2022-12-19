@@ -33,3 +33,15 @@ N° | Nome | Nota
 1 | João | ***7***
 2 | Maria | ***9***
 3 | Pedro | ***5***
+
+Destacando trechos de códigos: `document.getElementById()`
+```
+<!Doctye>
+<html>
+   <head>
+      <title></title>
+   </head>
+  <body>
+  </body>
+</html>
+```
